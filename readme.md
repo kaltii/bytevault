@@ -1,6 +1,6 @@
 # bytevault
 
-collection of things i've used, learned or fixed in real-world work
+collection of things i've used, learned or fixed
 
 topics:
 - networking
@@ -9,7 +9,7 @@ topics:
 - powershell / bash
 - troubleshooting
 
-no theory, just stuff that actually came up
+just stuff that actually came up
 
 structure:
 - knowledge → understanding
@@ -18,4 +18,3 @@ structure:
 - reference → commands / snippets
 - troubleshooting → problems + fixes
 
-start: 00_index/README.md
